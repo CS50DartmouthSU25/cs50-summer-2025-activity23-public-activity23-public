@@ -2,9 +2,11 @@
 # Summer 2025 Class Catalog
 ---
 
-[English](english.md) - Department chair: <github username>
 
-[Economics](economics.md) - Department chair: <github username> 
+=======
+[English](english.md) - Department chair: John-Chin
+
+[Economics](economics.md) - Department chair: ChrisDart1 
 
 [Geography](geography.md) - Department chair: <github username>
 
